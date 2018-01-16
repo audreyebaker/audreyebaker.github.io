@@ -12,4 +12,5 @@ That course brought with it my introduction to coding as I learned to use Stata,
 
 Now that I've started the Data Science Bootcamp at Metis, I may be an unlikely data scientist, but I'm definitely an enthusiastic one. I'm thrilled to be learning and applying these techniques I'm fascinated by that will hopefully help me continue to ask and answer questions about the world. And still, learning python has been tough and frustrating (and rewarding too!), not unlike learning Stata years ago. 
 
-But hey, on the bright side, I haven't thrown my computer against the wall yet!
+But hey, on the bright side, I haven't thrown my computer against the wall yet.
+:grimacing:
